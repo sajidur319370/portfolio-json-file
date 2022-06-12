@@ -1,0 +1,68 @@
+[
+    {
+        "_id": "62a56685048edb2d1b52e383",
+        "name": "Long-Drive",
+        "full_image": "https://i.ibb.co/yV5wDm4/full-Long-Drive.png",
+        "short_image": "https://i.ibb.co/PFm1HM6/Short-Long-Drive.png",
+        "technology": "React JS, Daisy UI, Firebase Authentication, React Hook Form, React Query, JSON Web Token, Node JS, MongoDB, Express JS, React Stripe",
+        "description": "Product management system implemented. Admin can manage product such as delete product, add product, Admin can make one user as admin. Common user can order and buy product. Login system, JWT token security, Payment system implemented.",
+        "live_link": "https://long-drive-c3e7e.firebaseapp.com/",
+        "client_code": "https://github.com/sajidur319370/long-drive-client",
+        "server_code": "https://github.com/sajidur319370/long-drive-server"
+    },
+    {
+        "_id": "62a56685f05ea5eb266fdee0",
+        "name": "Gadget-Master",
+        "full_image": "https://i.ibb.co/Jmcy5Vb/full-Gadget-Master.png",
+        "short_image": "https://i.ibb.co/2t9zCZJ/Short-Gadget-Master.png",
+        "technology": "React JS, React Bootstrap, Firebase authentication, React Hook Form, React Query, AXIOS, JSON Web Token, Node JS, MongoDB, Express JS.",
+        "description": "Product management system implemented. User can manage product such as delete product, add product. Login system, JWT token security implemented.",
+        "live_link": "https://gadget-master-c9a7a.firebaseapp.com/",
+        "client_code": "https://github.com/sajidur319370/gadget-master",
+        "server_code": "https://github.com/sajidur319370/gadget-master-server"
+    },
+    {
+        "_id": "62a5668527c67e608d463519",
+        "name": "Tech-Ree",
+        "full_image": "https://i.ibb.co/ts7c9Wh/full-TECH-REE.png",
+        "short_image": "https://i.ibb.co/YLLSYMW/Short-TECH-REE.png",
+        "technology": "React JS, React Bootstrap, Firebase authentication, React auth.",
+        "description": "Product Displayed. Login system implemented.",
+        "live_link": "https://tech-ree.firebaseapp.com/",
+        "client_code": "https://github.com/sajidur319370/tech-ree",
+        "server_code": ""
+    },
+    {
+        "_id": "62a56685eef00f1ad09a7e90",
+        "name": "Living-Cost-Plan",
+        "full_image": "https://i.ibb.co/b2rmJN7/full-Living-Cost-Plan.png",
+        "short_image": "https://i.ibb.co/NyqW33J/Short-Living-Cost-Plan.png",
+        "technology": "HTML5, Tailwind CSS, Vanilla JS.",
+        "description": "It is basic javascript calculator of daily life Cost Plan.",
+        "live_link": "https://admiring-ritchie.netlify.app/",
+        "client_code": "https://github.com/sajidur319370/living-cost-plan",
+        "server_code": ""
+    },
+    {
+        "_id": "62a566854ceeda43573b25c8",
+        "name": "Simple-Portfolio",
+        "full_image": "https://i.ibb.co/g6Q3GmZ/full-portfolio-Sass.png",
+        "short_image": "https://i.ibb.co/84CbX0s/Short-Portfolio-Sass.png",
+        "technology": "HTML5, CSS3, Sass, Vanilla JS, Bootstrap5",
+        "description": "Simple portfolio site for starting enducation purpose website.",
+        "live_link": "https://sajidur319370.github.io/bootstrap-v5-own-portfolio/",
+        "client_code": "https://github.com/sajidur319370/bootstrap-v5-own-portfolio/tree/main",
+        "server_code": ""
+    },
+    {
+        "_id": "62a56685423f3d42374a2a9b",
+        "name": "Easy-Bank",
+        "full_image": "https://i.ibb.co/qkNPmjj/full-Easybank-landing-page.png",
+        "short_image": "https://i.ibb.co/D72hMDd/Short-Easybank-landing-page.png",
+        "technology": "HTML5, CSS3, Sass, Vanilla JS.",
+        "description": "Landing page of a Bank Management System.",
+        "live_link": "https://sajidur319370.github.io/EasyBank/",
+        "client_code": "https://github.com/sajidur319370/EasyBank/tree/main",
+        "server_code": ""
+    }
+]
